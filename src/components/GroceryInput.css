@@ -1,0 +1,26 @@
+.input-div{
+    background-color: rgb(186,134,78);
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    padding: 20px;
+}
+.input-div input{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(186,134,78);
+    border: 1px solid white;
+}
+.input-div ::placeholder{
+    color: white;
+    font-size: medium;
+}
+.input-div button{
+    width: auto;
+    border-radius: 20px;
+    background-color: black;
+    color:white;
+}

@@ -1,0 +1,9 @@
+.item-div{
+    background-color: turquoise;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px ;
+    padding:10px;
+    text-align: center;
+    font-family: monospace;
+}

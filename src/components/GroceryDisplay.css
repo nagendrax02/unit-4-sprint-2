@@ -1,0 +1,16 @@
+.display-btn{
+    background-color: black;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding:10px
+}
+.display-btn button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-family: monospace;
+    cursor: pointer;
+
+}
